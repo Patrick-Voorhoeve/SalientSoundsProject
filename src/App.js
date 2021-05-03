@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Button, Card, Select, MenuItem} from '@material-ui/core';
-import $ from 'jQuery';
+import $ from 'jquery';
 import * as Tone from 'tone';
 import FrequencyMap from 'note-frequency-map';
 
